@@ -1,0 +1,20 @@
+page-singular-item {
+    .scroll-content {
+        background-color: $white;
+      }
+      .background_image_header {
+        background-image: url('../assets/img/backgrounds/img0.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      .headline {
+        color: $white;
+      }
+      .item__content {
+        margin: 0;
+      }
+      p {
+        margin: 0;
+      }
+
+}

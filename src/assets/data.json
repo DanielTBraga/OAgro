@@ -1,0 +1,79 @@
+[
+  {
+    "id": 0,
+    "categoria": "Fruta",
+    "titulo": "Abacaxi",
+    "descricao": "O abacaxi é uma infrutescência tropical produzida pela planta de mesmo nome, caracterizada como uma planta monocotiledônea da família das bromeliáceas da subfamília Bromelioideae.",
+    "imgpath": "assets/img/backgrounds/img1.png"
+  },
+  {
+    "id": 1,
+    "categoria": "Fruta",
+    "titulo": "Maça",
+    "descricao": "A maçã é o pseudofruto pomáceo da macieira (Malus domestica), árvore da família Rosaceae. É um dos pseudofrutos de árvore mais cultivados, e o mais conhecido dos muitos membros do género Malus.",
+    "imgpath": "assets/img/backgrounds/img4.png"
+  },
+  {
+    "id": 2,
+    "categoria": "Semente",
+    "titulo": "Pimenta",
+    "descricao": "Pimenta é o nome comum dado a várias plantas, seus frutos e condimentos deles obtidos, de sabor geralmente picante.",
+    "imgpath": "assets/img/backgrounds/img3.png"
+  },
+  {
+    "id": 3,
+    "categoria": "Planta",
+    "titulo": "Babosa",
+    "descricao": "O Aloe vera é uma planta utilizada para diversos fins medicinais há muitos anos. Geralmente, é utilizada para problemas relacionados com a pele.",
+    "imgpath": "assets/img/backgrounds/img5.png"
+  },
+  {
+    "id": 4,
+    "categoria": "Hortaliça",
+    "titulo": "Alface",
+    "descricao": "Alface é mundialmente cultivada para o consumo em saladas, com inúmeras variedades de folhas, cores, formas, tamanhos e texturas.",
+    "imgpath": "assets/img/backgrounds/img6.png"
+  },
+  {
+    "id": 5,
+    "categoria": "Grão",
+    "titulo": "Feijão",
+    "descricao": "Feijão é um nome comum para uma grande variedade de sementes de plantas de alguns gêneros da família Fabaceae. Proporciona nutrientes essenciais como proteínas, ferro, cálcio, vitaminas (principalmente do complexo B), carboidratos e fibras.",
+    "imgpath": "assets/img/backgrounds/img7.png"
+  },
+  {
+    "id": 6,
+    "categoria": "Planta",
+    "titulo": "Orquídea",
+    "descricao": "Orquídeas são todas as plantas que compõem a família Orchidaceae, pertencente à ordem Asparagales, uma das maiores famílias de plantas existentes. Apresentam muitíssimas e variadas formas, cores e tamanhos e existem em todos os continentes.",
+    "imgpath": "assets/img/backgrounds/img8.png"
+  },
+  {
+    "id": 7,
+    "categoria": "Fruta",
+    "titulo": "Laranja",
+    "descricao": "O sabor da laranja varia do doce ao levemente ácido, mas na natureza existem também as laranjas extremamente ácidas, que pertencem a outra espécie, Citrus aurantium.",
+    "imgpath": "assets/img/backgrounds/img9.png"
+  },
+  {
+    "id": 8,
+    "categoria": "Grão",
+    "titulo": "Milho",
+    "descricao": "O milho é um conhecido cereal, cultivado em grande parte do mundo. O milho é extensivamente utilizado como alimento humano ou para ração animal, devido às suas qualidades nutricionais.",
+    "imgpath": "assets/img/backgrounds/img10.png"
+  },
+  {
+    "id": 9,
+    "categoria": "Hortaliça",
+    "titulo": "Alho",
+    "descricao": "São designadas como alho algumas plantas do gênero Allium (mas não só), embora o termo se aplique especificamente ao Allium sativum, uma planta perene cujo bulbo ('cabeça de alho'), composto por folhas escamiformes ('dentes de alho'), é comestível e usado tanto como tempero como para fins medicinais.",
+    "imgpath": "assets/img/backgrounds/img12.png"
+  },
+  {
+    "id": 10,
+    "categoria": "Fruta",
+    "titulo": "Manga",
+    "descricao": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "imgpath": "assets/img/backgrounds/img11.png"
+  }
+]
